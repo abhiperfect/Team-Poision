@@ -1,0 +1,52 @@
+/* .sec1{
+
+background-color: #2C3333;
+
+} */
+h1
+{
+  color: white;
+}
+
+/* .btn {
+
+  background-color:none;
+} */
+
+.sec1 {
+
+  height: 600px;
+  width: 100%;
+  background-color:#2C3333;
+}
+.row {
+padding: 50px;
+margin:50px;
+
+}
+
+
+/* form.d-flex button:hover {
+  background: #2C3333;
+} */
+
+
+
+.bottom-container{
+  height: 400px;
+  width: 100%;
+  background-color: #2C3333;
+  padding: 100px 30% 40px 30%;
+}
+a{
+  color: WHITE;
+  font-family: 'Montserrat', sans-serif;
+  margin:10px 20px;
+padding: 200px 40px;
+  text-decoration: none;
+}
+#pb{
+  color: WHITE;
+  font-family: 'Montserrat', sans-serif;
+  padding: 200px 40% 40px;
+}
